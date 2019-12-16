@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/rentDB?createDatabaseIfNotExist=true
-    username: admin
+    username: root
     password: admin123
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
